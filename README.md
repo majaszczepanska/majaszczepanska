@@ -1,6 +1,10 @@
-## Hi 👋 I'm Maya
+<p align="center">
+  <h1>Hi 👋 I'm Maya</h1>
+</p>
 
-### 🧑‍🎓 First-year part-time Computer Science student with a Certified IT Technician background.
+---
+
+## 🧑‍🎓 First-year part-time Computer Science student with a Certified IT Technician background.
 
 ---
 
