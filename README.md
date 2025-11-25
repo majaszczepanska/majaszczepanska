@@ -1,6 +1,4 @@
-<p align="center">
-  <h1>Hi 👋 I'm Maya</h1>
-</p>
+<h1 align="center">Hi 👋 I'm Maya</h1>
 
 ---
 
