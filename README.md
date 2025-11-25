@@ -1,16 +1,14 @@
-## Hi there 👋
+## Hi 👋 I'm Maya
 
-<!--
-**majaszczepanska/majaszczepanska** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🧑‍🎓 First-year part-time Computer Science student with a Certified IT Technician background.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💻 About Me
+
+* 🔭 I’m currently developing a **mapping application** to visualize data.
+* 🌱 I'm actively expanding my skills in **Java** and the **Spring Boot** framework.
+* 🔥 My goal is to specialize in **backend development**.
+* 💡 I already know the basics of **HTML**, **CSS**, **JavaScript**, **PHP** and **SQL**.
+* 💬 Open to connecting and collaborating on projects!
+
