@@ -9,7 +9,7 @@
 ## 💻 About Me
 
 * 🔭 I’m currently developing:
-   * 📱 **CosyDVR**: Modernizing a legacy Java Android dashcam app. Added modern OS support, a live camera gallery, and dynamic OpenStreetMap tracking. Currently refining UI and local storage.
+   * 📱 **CosyDVR**: Modernizing a legacy Java Android dashcam app. Added modern OS support, a live camera gallery, and dynamic OpenStreetMap tracking. Currently refining UI and local storage settings.
 * 🏆 I've already finished:
    * 🏥 **MedApp**: A comprehensive medical management system built with Java, Spring Boot, PostgreSQL, Docker, and Angular.
    * 🗺️ **Mapping Application**: Visualizing spatial data (built with Spring Boot, HTML, JS, Leaflet).
